@@ -1,7 +1,21 @@
 module.exports = {
-  publicPath:'./',
-  outputDir:'dist',
-  devServer:{
-    port:8888,
-  }
+    configureWebpack: {
+        resolve: {
+            alias: {
+                //配置别名
+                'assets': '@/assets',
+                'common': '@/common',
+                'components': '@/components',
+                'network': '@/network',
+                'views': '@/views',
+                'pluginunit':'@/pluginunit'
+            }
+        }
+    },
+    devServer: {
+
+    },
+  publicPath: './',
+  assetsDir: 'static',
+  parallel: false
 }

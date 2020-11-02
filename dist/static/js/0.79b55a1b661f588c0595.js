@@ -1,2 +1,0 @@
-webpackJsonp([0],{FDe2:function(e,t){},XwkR:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("h1",[this._v("首页")])},staticRenderFns:[]};var a=n("VU/8")({name:"home"},r,!1,function(e){n("FDe2")},"data-v-dfc0109e",null);t.default=a.exports}});
-//# sourceMappingURL=0.79b55a1b661f588c0595.js.map

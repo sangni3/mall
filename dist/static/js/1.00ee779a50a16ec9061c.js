@@ -1,2 +1,0 @@
-webpackJsonp([1],{cKYI:function(e,t){},iu1Q:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){this.$createElement;this._self._c;return this._m(0)},staticRenderFns:[function(){var e=this.$createElement,t=this._self._c||e;return t("div",[t("h1",[this._v("个人")])])}]};var r=n("VU/8")({name:"profile"},i,!1,function(e){n("cKYI")},"data-v-bc4ab22e",null);t.default=r.exports}});
-//# sourceMappingURL=1.00ee779a50a16ec9061c.js.map
